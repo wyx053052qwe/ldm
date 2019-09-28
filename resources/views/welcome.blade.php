@@ -1,7 +1,4 @@
 <!doctype ht>
-<?php
-echo $_SERVICE;
-?>
 <html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
     <head>
         <meta charset="utf-8">
